@@ -1,0 +1,9 @@
+GET/jobs : get alljobs
+
+GET/jobs/{id} get a particular jobs
+
+post/jobs create a new job (@requestbody should carry the body details )
+
+delete/jobs/{id} delete a specific job 
+
+put/jobs/{id} update a aspecific job by Id
